@@ -1,0 +1,5 @@
+#02-09-2026 #Career  [[🗺️ September 2026 — Programming Foundation]]
+
+>Just started Designing the Elaborate system plan i will have to follow for probably the next year and a half. Right now, everything is a bit more blur than i thought is would be, but with the help of the plan and strong determination, i would be able to pass this stage and be able to create something that could generate me income so i can retire early as i planned.
+
+>Cooperate jobs are just not for me, the waking up early, the moving out the the house everyday plus the fear they might fire me because i have one too many injuries. My only hope to become the type of person i want is to find a self sustainable method of earning good money. This note should be my motivation on days my hands may feel too heavy or my mind is darkened with clouds of misjudgment. 
