@@ -7,7 +7,7 @@
 [[🗺️ September 2026 — Programming Foundation]]
 ### Current Topic
 
-[[JavaScript Fundamentals Variables, Types & Operators]]
+[[JavaScript - Fucntions]]
 ### Current Project
 
 None
@@ -24,7 +24,7 @@ None
 
 - [x] Study variables & types
 
-- [ ] Study conditionals
+- [x] Study conditionals
 
 - [ ] Complete JS-001
 
@@ -69,4 +69,4 @@ None yet.
 
 ## 📓 Latest Journal
 
-  #02-09-2026 
+  #05-09-2026 

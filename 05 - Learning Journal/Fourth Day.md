@@ -1,0 +1,5 @@
+> Today was much more easier than [[Third Day]] , which makes sense because to was a day of functions which fundamentally make everything easier or al least most things.  Right now i can code but i'm still far behind on what i wan to be able to do. I will get there that i know.
+
+> Another thing worth noting is my right hand which has been hurting me for 3 days now not just the hand but my knee has been hurting for 2 days and my ankle that has kept me down more than 2 weeks now, none of them are a new type of pain since i have felt them before. But i am a little scared because this is how all of my Ai independent Journeys come to end, I feel pain on my hand or other body parts and decide to rest and boom and i can't find the strength to pick up. Infact thats how my last journey ended a month ago.
+
+> Overall today i faced no issues codding wise. #05-09-2026 [[JavaScript - Fucntions]]

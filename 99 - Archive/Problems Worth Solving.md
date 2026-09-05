@@ -1,2 +1,2 @@
  - [ ] Payment Getway for Schools 
- - [ ] 
+ - [ ] Online Njangi platform

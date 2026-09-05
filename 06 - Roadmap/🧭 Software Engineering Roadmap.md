@@ -53,13 +53,13 @@ Rebuild my ability to think through programming problems without AI writing the 
 
 - [x] Loops
 
-- [ ] Functions
+- [x] Functions
 
-- [ ] Parameters and arguments
+- [x] Parameters and arguments
 
-- [ ] Return values
+- [x] Return values
 
-- [ ] Scope
+- [x] Scope
 
 - [ ] Arrays
 
